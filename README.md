@@ -1,3 +1,5 @@
+Пока только подготовка, код еще не работает.
+
 # Myers Diff - a C++ header-only lib
 
 A Myers diff algorithm with various optimizations, based on the
